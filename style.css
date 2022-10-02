@@ -1,0 +1,134 @@
+img {
+    position: absolute;
+}
+
+.info {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13;
+    top: 250;
+}
+
+.msg {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13;
+    margin-left: 1.4cm;
+    
+}
+
+.name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13;
+    margin-left: 1.3cm; 
+    padding-top: 15px;
+}
+
+.imgA1 {
+    z-index: 1;
+}
+
+.imgB1 {
+    z-index: 2;
+    left: 750;
+    text-align: center;
+}
+
+.centered {
+    position: relative;
+    text-align: center;
+    top: 70;
+    font-size: 24pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-weight: bold;
+    text-shadow: 3px 3px #999999;
+}
+.Flag {
+    position: relative;
+    top: 70;
+    left: 200;
+}
+
+.kings {
+    position: relative;
+    top: 70;
+    left: 1070;
+}
+
+.co {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13;
+    margin-top: 24px;
+}
+
+.pp {
+    position: absolute;
+    top: 500;
+    left: 1100;
+    font-size: 30;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.N92 {
+    position: absolute;
+    top: 140;
+    left: 700;
+    font-size: 90;
+    color: red;
+}
+
+.main {
+    position: absolute;
+    background-color:  lightgray;
+    top: 358;
+    right: 810;
+    left: 210;
+    width: 840;
+    padding: 10px;
+}
+
+.chat {
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px;
+    box-shadow: 1px 1px 1px 1px #88888888;
+    padding: 16px;
+    
+}
+
+.page {
+    background-color: lightgrey;
+    position: absolute;
+    top: 1890;
+    right: 810;
+    left: 210;
+    width: 1420;
+    height: 5.5%;
+ 
+}
+
+.icon {
+    height: 40;
+    width: 40;
+    position: absolute;
+    padding-right: 20px;
+}
+
+.icon1 {
+    height: 35;
+    width: 40;
+    position: absolute;
+    margin-bottom: .1cm;
+    padding-left: 10px;
+}
+
+.iconM {
+    height: 35;
+    width: 40;
+    margin-top: 110px;
+    position: absolute;
+    padding-left: 10px;
+    top: 677;
+
+
+}
